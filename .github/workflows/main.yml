@@ -1,5 +1,4 @@
 name: Sphinx Build
-# dummy
 on: push
 jobs:
   build:
