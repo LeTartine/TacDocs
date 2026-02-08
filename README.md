@@ -1,5 +1,6 @@
-TartiDoc - La Documentation Tactique de Tartine
-===============================================
+# TartiDoc - La Documentation Tactique de Tartine
+
+## Pourquoi?
 
 Je suis un nerd de strategie et tactique militaire. 
 J'apprecie aussi les FPS tactiques hardcore, en particulier ceux ou le travail en equipe est important. 
@@ -13,38 +14,9 @@ Les IA utilisees en guise d'ennemi sur certains jeux (comme Arma) sont interessa
 Le PVP permet d'ajouter plus de realisme et de difficulte a l'experience. 
 Il rend surtout encore plus pertinentes les tactiques et techniques militaires, puisque l'ennemi devient imprevisible. 
 
-----------------------------
+## Principes
 
 Inspiré des **Standard Operating Procedures (SOP)** en anglais, ou Procédure Opératoire Normalisée (PON) en Francais.
 
 Des connaissances, compétences et modes opératoires de base pour tous les grunts en infanterie FPS tactique / mil-sim.
 Permettent de facilement s'intégrer au sein d'une unité, de comprendre les comms, etc.
-
-----------------------------
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   essentiels
-   concepts/appui
-   concepts/camouflage
-   concepts/manoeuvre
-   concepts/neutralisation_suppression
-   concepts/observation
-   concepts/protection
-   concepts/organisation
-   communication/sitrep
-   communication/ddro
-   roles/anti_tank
-   roles/fusilier
-   roles/grenadier
-   roles/mmg_saw
-   techniques/360
-   techniques/assaut
-   techniques/formations
-   techniques/mouvement_individuel
-   techniques/portes
-   techniques/reaction_contact
-   techniques/tiroir_perroquet
-
