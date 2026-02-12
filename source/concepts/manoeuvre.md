@@ -1,5 +1,7 @@
 # Manœuvre et mouvement
 
+Observation -> Deploiement -> Ciblage -> Feux <-> Manoeuvre -> Destruction -> Evaluation
+
 ## Mouvement
 
 Le mouvement, c'est simplement le deplacement d'un point A a un point B. Le mouvement est une étape préalable au combat. 

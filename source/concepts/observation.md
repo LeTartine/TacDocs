@@ -1,5 +1,7 @@
 # Observation & ISR
 
+Observation -> Deploiement -> Ciblage -> Feux <-> Manoeuvre -> Destruction -> Evaluation
+
 L'observation est la premiere brique du combat. L'observation vise à l'obtention d'informations sur l'ennemi, sa nature, 
 sa position, ses actions, ses intentions, son dispositif, et donne un avantage significatif. 
 Obtenir une information juste, récente et utile au sujet de l'ennemi permet de planifier, d'anticiper et de cibler l'ennemi.

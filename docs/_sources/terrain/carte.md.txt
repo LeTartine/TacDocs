@@ -1,3 +1,3 @@
-# Lire et naviguer avec une carte
+# Lire de carte
 
 WIP
